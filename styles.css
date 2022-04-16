@@ -123,7 +123,10 @@ Countdown Timer
   color: var(--clr-primary-3);
 }
 .Nig-independence-info p {
-  color: var(--clr-grey-6);
+  background-color: #ffffff;
+  line-height: 2;
+  border-radius: 10px;
+  border: #243d25 solid 2px;
 }
 .date {
   color: var(--clr-grey-5);
@@ -143,6 +146,7 @@ Countdown Timer
 }
 .Nig-independence-info p {
   margin: 2rem 0;
+  line-height: 2;
 }
 .deadline {
   display: flex;
